@@ -1,0 +1,103 @@
+body {
+	margin: 0;
+}
+
+header.body {
+	width:100%;
+	height: 100px;
+	margin-bottom: 2%;
+}
+
+#logo {
+	width: 25%;
+	height: 100px;
+	background-color: gray;
+	float: left;
+}
+
+header.body nav {
+	width: 75%;
+	float: right;
+	height: 100px;
+}
+
+div.nav {
+	width: 15%;
+	height: 40%;
+	margin: 4% 0 4% 2%;
+	float: right;
+	background-color: gray;
+}
+
+aside {
+	width: 15%;
+	height: 500px;
+	margin-bottom: 2%;
+	float: left;
+	margin-right: 2%;
+	background-color: gray;
+}
+
+main {
+	margin-bottom: 2%;
+	float: right;
+	height: 500px;
+	width: 83%;
+}
+
+header.main {
+	width: 100%;
+	background-color: gray;
+	height: 85px;
+	margin-bottom: 2%;
+}
+
+main div.two-column {
+	height: 245px;
+	margin-bottom: 2%;
+}
+
+main div.two-col-left {
+	width: 74.5%;
+	height:250px;
+	float:left;
+	margin-right: 2%;
+	background-color: gray;
+}
+
+main div.two-col-right {
+	width: 23.5%;
+	height:250px;
+	float:right;
+	background-color: gray;
+}
+
+main div.four-column {
+	height: 143.5px;
+	margin-bottom: 2%;
+}
+
+main div.fourth-col {
+	width: 23.5%;
+	height: 100%;
+	margin-left:2%;
+	float: right;
+	background-color: gray;
+}
+
+main div.fourth-col-left {
+	width: 23.5%;
+	height: 100%;
+	float: right;
+	background-color: gray;
+}
+
+footer {
+	clear: both;
+	height: 100px;
+}
+
+footer div {
+	height: 100px;
+	background-color: gray;
+}
